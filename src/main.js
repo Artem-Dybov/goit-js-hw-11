@@ -3,7 +3,6 @@ import { renderGallery } from './js/render-functions.js';
 
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
-import 'css-loader';
 
 import crossIcon from './img/cross.png';
 import closeIcon from './img/close.png';
